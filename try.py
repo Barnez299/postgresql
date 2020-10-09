@@ -5,6 +5,9 @@ from config import config
 # this is just a test
 
 
+# testing some update
+
+
 def get_vendors():
     """ query data from the vendors table """
     conn = None
