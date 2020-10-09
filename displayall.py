@@ -30,6 +30,8 @@ def fetch_all():
         if conn is not None:
             conn.close()
 
+        
+
     
 
 

@@ -2,7 +2,7 @@ import psycopg2
 from config import config
 
 
-
+# this is just a test
 
 
 def get_vendors():
@@ -25,7 +25,7 @@ def get_vendors():
             conn.close()
 
    
-
+kj
 
 if __name__ == '__main__':
     get_vendors()
